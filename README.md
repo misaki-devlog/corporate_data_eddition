@@ -1,4 +1,4 @@
-[corporate_data_addition.py](https://github.com/user-attachments/files/27786171/corporate_data_addition.py)# corporate_data_addition
+# corporate_data_addition
 
 ## 概要（OverView）
 企業の業績データ（ROE,営業CF,自己資本比率）を管理・表示するプログラムです。
